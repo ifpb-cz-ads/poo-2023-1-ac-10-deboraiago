@@ -1,4 +1,4 @@
-public class RegistraAluno {
+public class AppRegistraAluno {
     
     public static void main(String[] args) {
         DadosAlunos aluno = new DadosAlunos();

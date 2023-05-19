@@ -1,7 +1,7 @@
 /**
  * RegistraAluno02
  */
-public class RegistraAluno02 {
+public class AppRegistraAluno02 {
 
     public static void main(String[] args) {
         DadosAlunos aluno = new DadosAlunos();
